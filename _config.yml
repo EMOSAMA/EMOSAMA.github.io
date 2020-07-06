@@ -65,9 +65,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 3f38707b17ac0960b597                            #生成的clientID
   clientSecret: dcd53eff1966fc17dfd8f30f1713e76d090cc4bf    #生成的clientSecret
-  repo: EMOSAMA.github.io    #仓库名称
-  owner: EMOSAMA    #github用户名
-  admin: EMOSAMA
+  repo: qiubaiying.github.io    #仓库名称
+  owner: emosama    #github用户名
+  admin: emosama
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
